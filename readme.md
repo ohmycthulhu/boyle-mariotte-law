@@ -10,6 +10,7 @@
 <div>
 To run project:
 <ul>
+<li>Install R interpreter</li>
 <li>Install dependencies from package.json with <code>npm install</code></li>
 <li>Copy everything from <i>src</i> folder into HTTP serving folder (e.g. htdocs for XAMPP) </li>
 <li>Or just run <code>php -S 0.0.0.0:80 -t ./src</code> for serving with PHP server</li>
