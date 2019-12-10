@@ -24,7 +24,7 @@ $('#send-request').on('click', function (event) {
   console.log(params);
   $.ajax({
     method: 'GET',
-    url: `/api?${params}`,
+    url: `api?${params}`,
   }).then(response => {
     isSendingRequest = false;
     this.disabled = false;
