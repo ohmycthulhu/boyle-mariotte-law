@@ -1,0 +1,7 @@
+*.Rproj*
+Rplots.pdf
+.RData
+*.png
+node_modules
+.idea
+.Rhistory

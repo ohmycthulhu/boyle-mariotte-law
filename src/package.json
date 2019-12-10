@@ -1,0 +1,17 @@
+{
+  "name": "boyle-mariotte-law",
+  "version": "1.0.0",
+  "description": "Interface for Boyle-Mariotte Law implementation ",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "bootstrap-slider": "^10.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fruiteatearth@gmail.com",
+  "license": "ISC"
+}
